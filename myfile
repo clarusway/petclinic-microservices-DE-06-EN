@@ -8,7 +8,7 @@ clusters:
 users:
 - name: "petclinic-cluster-staging"
   user:
-    token: "kubeconfig-user-27jblbsh57:bkxjvmcqgfxb9wxm6nxvvdgjqjmbg6czsmbnx48q57ncgc2bfvctmt"
+    token: "kubeconfig-user-27jbltkvjt:j9l9mq8vzm5p58wck97sw2xqttd4h6c869vc4m7fz8l2n4rjx2sr6c"
 
 
 contexts:
